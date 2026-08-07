@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luxury-villa-interior.netlify.app/sitemap.xml
